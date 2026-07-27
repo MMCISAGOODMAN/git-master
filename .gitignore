@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.DS_Store
+*.log
+.idea/
+node_modules/
+package.json
+package-lock.json
+capture-shots.mjs
+docs/wechat-shots/
+docs/wechat-article.html
